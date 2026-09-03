@@ -2,5 +2,3 @@ streamlit
 ollama
 ddgs
 pypdf
-pyttsx3
-streamlit-mic-recorder
